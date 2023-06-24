@@ -1,6 +1,6 @@
 # Cosmic Orchards
 Made by Maggie Yang, Bora Joo, & Deanna Nguyen
-###This is a COPY of a now deleted repository due to complications with LFS. This serves as documentation, not as a live repository. For more details regarding commits and work contribution please contact Maggie Yang
+### This is a COPY of a now deleted repository due to complications with LFS. This serves as documentation, not as a live repository. For more details regarding commits and work contribution please contact Maggie Yang
 
 ## Running the Program
 No installation necessary. In order to run the .exe file, these items should already be in the folder:
